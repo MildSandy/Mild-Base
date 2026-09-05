@@ -6,3 +6,5 @@ base sep
 Base July
 Base August
 Become Based ( https://guild.xyz/base/home )
+
+Base Redditor ( https://guild.xyz/base/stay-connected )
