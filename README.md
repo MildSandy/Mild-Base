@@ -12,5 +12,5 @@ Onchain-Based on your onchain activity ( https://guild.xyz/base/onchain )
 Builders & Founders( https://guild.xyz/base/builders-founders )
 Creators & Voices( https://guild.xyz/base/creators-voices )
 It's Time to PRED ( https://guild.xyz/base/pred )
-
+Longshots Only( https://guild.xyz/base/longshot )
 
