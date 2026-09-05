@@ -14,3 +14,4 @@ Creators & Voices( https://guild.xyz/base/creators-voices )
 It's Time to PRED ( https://guild.xyz/base/pred )
 Longshots Only( https://guild.xyz/base/longshot )
 Reputation Maxxing ( https://guild.xyz/base/ethosnetwork )
+Check these roles on Guild for Base 
