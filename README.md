@@ -15,3 +15,4 @@ It's Time to PRED ( https://guild.xyz/base/pred )
 Longshots Only( https://guild.xyz/base/longshot )
 Reputation Maxxing ( https://guild.xyz/base/ethosnetwork )
 Check these roles on Guild for Base 
+Check out the other roles
